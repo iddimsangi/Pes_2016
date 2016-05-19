@@ -1,0 +1,14 @@
+/*navbar*/
+.navbar-default{
+	background-color:#000;
+	border:transparent;
+}
+.navbar-nav{
+	margin: 35px 100px 0px;
+}
+.navbar-default.navbar-nav li a{
+	color: #fff;
+}
+navbar-default.navbar-nav li a:hover{
+	color: #16a885;
+}

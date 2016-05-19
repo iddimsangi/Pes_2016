@@ -1,0 +1,13 @@
+body{
+	padding: 40px 50px 0 50px;
+}
+.navbar-default{
+	background-color:#A9A9A9;
+	border-color:#A9A9A9;
+}
+.nav-pills li a{
+margin-left: 80px;
+}
+.nav-pills li a:hover{
+	color:#F4A460;
+	   }

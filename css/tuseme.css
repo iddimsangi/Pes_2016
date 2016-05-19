@@ -1,0 +1,31 @@
+
+#header {
+    background-color:#708090;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+#nav {
+    line-height:30px;
+    background-color:#FFB6C1;
+    height:400px;
+    width:90px;
+    float:right;
+    padding:5px;	      
+}
+#section {
+    width:400px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:10px;	 	 
+}
+.hr{
+    max-width: 80%;
+}
+    
